@@ -14,16 +14,22 @@ Rooted in Nairobi. Wired for impact. Unapologetically ambitious and Vibefull.
 ### 🔥 What I'm About
 
 - 🚀 **Tech for transformation**  
-  Not just building apps, but building answers. I create tools for real people solving real problems.
+  So I'm not just building Apps, but building answers. I create tools for real people solving real problems.
 
 - 🧩 **Systems Thinking**  
-  I don’t chase trends. I architect ecosystems — connecting the dots where others see chaos.
+  I actually love building systems. I architect ecosystems, connecting the dots where others see chaos.
 
 - 🧠 **Neurogrowth & Discipline**  
-  Mindset is the mainframe: daily rituals, deep learning, monk-mode habits — all in pursuit of sharp thinking and sharper execution.
+  Mindset is the mainframe: daily rituals, deep learning, monk-mode habits, all in pursuit of sharp thinking and sharper execution.
+  
+- 🤝 **I'm Interested in**
+   **mentorship, brotherhood, and sharp minds**, not just to level up technically, but to grow as a founder, systems builder, and in motion.
+  
+- 💬 **Ask me about**
+   music, space, time, mythology, History, Philosophy — I think about those things more than I probably should.
 
-- 🧱 **Startup Mode**  
-  MVPs over fluff. Progress over perfection. Building in public, bootstrapped with soul.
+- ⚡ **Fun Fact** I think the internet is the wildest social experiment of our time, and we’re all just trying to find meaning in the scroll.
+
 
 ---
 
@@ -39,16 +45,6 @@ Rooted in Nairobi. Wired for impact. Unapologetically ambitious and Vibefull.
   *A daily operating system for mental clarity, physical edge, and relentless creation (June–Aug 2025). Discipline is the new luxury.*
 
 ---
-
-### 🎯 My Philosophy
-
-> Build like time is running out. Think like a philosopher. Move like a warrior.
-
-- Speak with **intention** — words are spells.
-- Build with **conviction** — half-steps don’t change the world.
-- Connect with **authenticity** — the real ones recognize real energy.
-
-I’m not here for likes. I’m here to create. To collaborate. To leave proof.
 
 ### 💻 Tech Stack
 
@@ -77,6 +73,8 @@ I’m not here for likes. I’m here to create. To collaborate. To leave proof.
 
 #### 🌐 Deployment & Dev Tools
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=Render&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
@@ -86,10 +84,12 @@ I’m not here for likes. I’m here to create. To collaborate. To leave proof.
 ![Glide](https://img.shields.io/badge/Glide-00C4CC?style=for-the-badge&logo=Glide&logoColor=white)
 
 > **DMs open. Ideas welcome. Grind respected.**
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasane-kariuki-5b62572b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM4PoAJhPTMiVt8eiOihFSQ%3D%3D)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kariukiaasane@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aasanekariuki)
-[![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.instagram.com/iaasane/)
+[![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iaasane/)
 
 
 
@@ -100,11 +100,9 @@ I’m not here for likes. I’m here to create. To collaborate. To leave proof.
 If you're about solving hard problems, challenging convention, and building for a future where Africa leads, we’re already aligned.
 
 
-![Aasane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasanekariuki&show_icons=true&theme=radical)
+![Aasane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasanekariuki&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasanekariuki&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aasanekariuki&layout=compact&theme=tokyonight)
 
----
-Stay dangerous. Stay building. The future favors the audacious.
 
 
