@@ -42,7 +42,7 @@ Rooted in Nairobi. Wired for impact. Unapologetically ambitious and Vibefull.
 
 ### 🎯 My Philosophy
 
-> _“Build like time is running out. Think like a philosopher. Move like a warrior.”
+> Build like time is running out. Think like a philosopher. Move like a warrior.
 
 - Speak with **intention** — words are spells.
 - Build with **conviction** — half-steps don’t change the world.
@@ -59,5 +59,5 @@ If you're about solving hard problems, challenging convention, and building for 
 > **DMs open. Ideas welcome. Grind respected.**
 
 ---
-_“Stay dangerous. Stay building. The future favors the audacious.”
+Stay dangerous. Stay building. The future favors the audacious.
 
